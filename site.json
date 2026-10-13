@@ -1,0 +1,524 @@
+{
+    "theme": "charcoal",
+    "settings": {
+        "email": "treziohubspot@gmail.com",
+        "whatsapp": "",
+        "instagram": "",
+        "youtube": "",
+        "facebook": "",
+        "linkedin": "",
+        "currency": "PKR",
+        "profilePhoto": "uploads/img-a405a3753ee9.jpg"
+    },
+    "texts": {
+        "footer_tag": "Your one-stop digital marketing and growth partner.",
+        "footer_copy": "© 2026 Trezio Hubspot. All rights reserved.",
+        "home_heroName": "Trezio Hubspot",
+        "home_heroRole": "Digital Marketing Agency",
+        "home_heroTag": "Transforming Businesses Through Strategy, Creativity & Technology. Your One-Stop Digital Marketing & Growth Partner.",
+        "home_heroBtn": "View My Work",
+        "home_heroBtn2": "Get in touch",
+        "home_servicesH": "What I do for your business",
+        "home_servicesP": "Everything you need to grow online, handled by one partner.",
+        "home_servicesBtn": "See all services",
+        "home_workH": "Featured work",
+        "home_workP": "A look at recent projects across branding, video, ads and web.",
+        "home_workBtn": "View Full Portfolio",
+        "home_testH": "What clients say",
+        "home_brandsH": "Brands I have worked with",
+        "home_ctaH": "Ready to grow your business?",
+        "home_ctaP": "Tell me about your goals and I will reply with a clear plan.",
+        "home_ctaBtn": "Contact me",
+        "services_title": "Services",
+        "services_lead": "Everything your business needs to grow online, from first logo to qualified leads.",
+        "services_note": "Prices are starting rates. Final cost depends on your project. Ad spend is paid separately where mentioned.",
+        "services_ctaH": "Not sure which service you need?",
+        "services_ctaP": "Tell me about your business and I will recommend the right plan.",
+        "services_ctaBtn": "Get a free consultation",
+        "portfolio_title": "My portfolio",
+        "portfolio_lead": "Selected work across social media, performance marketing and websites. Click any project to see more.",
+        "awards_title": "Awards & Achievements",
+        "awards_lead": "Certifications and recognition that back up the work.",
+        "awards_ctaH": "Let’s put this experience to work",
+        "awards_ctaP": "Tell me about your goals and I will reply with a clear plan.",
+        "awards_ctaBtn": "Contact me",
+        "about_storyH": "🚀 3 Years.\nOne Vision.\nCountless Digital Journeys.",
+        "about_p1": "Three years ago, Trezio Hubspot started with a simple vision — to help businesses turn their ideas into digital growth.",
+        "about_p2": "From building brands and creating content to SEO, websites, social media, Meta Ads, Google Ads, AI automation and lead generation, we’ve grown by focusing on one thing: results that matter.",
+        "about_p3": "Over these 3 years, we’ve learned, evolved, experimented and helped businesses move from being online to growing online. 📈",
+        "about_p4": "Today, Trezio Hubspot stands as a digital marketing agency and growth partner for businesses ready to scale.",
+        "about_p5": "And this is just the beginning.",
+        "about_nextH": "3 years completed.",
+        "about_nextP": "The next chapter is bigger. 🚀",
+        "about_nextStrong": "Trezio Hubspot — Your Digital Growth Partner.",
+        "about_journeyH": "The journey so far",
+        "about_journeyP": "The milestones that shaped the agency.",
+        "about_skillsH": "Core skills",
+        "about_skillsP": "What I do best, and what I bring to every project.",
+        "about_ctaH": "Let’s write the next chapter together",
+        "about_ctaP": "Tell me about your goals and I will reply with a clear plan.",
+        "about_ctaBtn": "Contact me",
+        "contact_formIntro": "Have a video editing or channel management project? Tell me about it and I will get back to you.",
+        "contact_btn": "Send message",
+        "contact_title": "Contact",
+        "contact_lead": "Let’s talk about your project and how to grow it."
+    },
+    "textmeta": {
+        "footer_tag": [
+            "footer",
+            "Footer tagline"
+        ],
+        "footer_copy": [
+            "footer",
+            "Copyright line"
+        ],
+        "home_heroName": [
+            "home",
+            "Your name (main headline)"
+        ],
+        "home_heroRole": [
+            "home",
+            "Your title"
+        ],
+        "home_heroTag": [
+            "home",
+            "Tagline"
+        ],
+        "home_heroBtn": [
+            "home",
+            "Main button"
+        ],
+        "home_heroBtn2": [
+            "home",
+            "Second button"
+        ],
+        "home_servicesH": [
+            "home",
+            "Section title"
+        ],
+        "home_servicesP": [
+            "home",
+            "Section intro"
+        ],
+        "home_servicesBtn": [
+            "home",
+            "Services button"
+        ],
+        "home_workH": [
+            "home",
+            "Section title"
+        ],
+        "home_workP": [
+            "home",
+            "Section intro"
+        ],
+        "home_workBtn": [
+            "home",
+            "Portfolio button"
+        ],
+        "home_testH": [
+            "home",
+            "Section title"
+        ],
+        "home_brandsH": [
+            "home",
+            "Section title"
+        ],
+        "home_ctaH": [
+            "home",
+            "Closing title"
+        ],
+        "home_ctaP": [
+            "home",
+            "Closing text"
+        ],
+        "home_ctaBtn": [
+            "home",
+            "Closing button"
+        ],
+        "services_title": [
+            "services",
+            "Page title"
+        ],
+        "services_lead": [
+            "services",
+            "Intro line"
+        ],
+        "services_note": [
+            "services",
+            "Note under the prices"
+        ],
+        "services_ctaH": [
+            "services",
+            "Closing title"
+        ],
+        "services_ctaP": [
+            "services",
+            "Closing text"
+        ],
+        "services_ctaBtn": [
+            "services",
+            "Closing button"
+        ],
+        "portfolio_title": [
+            "portfolio",
+            "Page title"
+        ],
+        "portfolio_lead": [
+            "portfolio",
+            "Intro line"
+        ],
+        "awards_title": [
+            "awards",
+            "Page title"
+        ],
+        "awards_lead": [
+            "awards",
+            "Intro line"
+        ],
+        "awards_ctaH": [
+            "awards",
+            "Closing title"
+        ],
+        "awards_ctaP": [
+            "awards",
+            "Closing text"
+        ],
+        "awards_ctaBtn": [
+            "awards",
+            "Closing button"
+        ],
+        "about_storyH": [
+            "about",
+            "Story headline (new line = new row)"
+        ],
+        "about_p1": [
+            "about",
+            "Story paragraph 1"
+        ],
+        "about_p2": [
+            "about",
+            "Story paragraph 2"
+        ],
+        "about_p3": [
+            "about",
+            "Story paragraph 3"
+        ],
+        "about_p4": [
+            "about",
+            "Story paragraph 4"
+        ],
+        "about_p5": [
+            "about",
+            "Story paragraph 5"
+        ],
+        "about_nextH": [
+            "about",
+            "Closing panel title"
+        ],
+        "about_nextP": [
+            "about",
+            "Closing panel text"
+        ],
+        "about_nextStrong": [
+            "about",
+            "Closing signature"
+        ],
+        "about_journeyH": [
+            "about",
+            "Section title"
+        ],
+        "about_journeyP": [
+            "about",
+            "Section intro"
+        ],
+        "about_skillsH": [
+            "about",
+            "Section title"
+        ],
+        "about_skillsP": [
+            "about",
+            "Section intro"
+        ],
+        "about_ctaH": [
+            "about",
+            "Closing title"
+        ],
+        "about_ctaP": [
+            "about",
+            "Closing text"
+        ],
+        "about_ctaBtn": [
+            "about",
+            "Closing button"
+        ],
+        "contact_formIntro": [
+            "contact",
+            "Line above the form"
+        ],
+        "contact_btn": [
+            "contact",
+            "Send button"
+        ],
+        "contact_title": [
+            "contact",
+            "Page title"
+        ],
+        "contact_lead": [
+            "contact",
+            "Intro line"
+        ]
+    },
+    "services": [
+        {
+            "icon": "brand",
+            "title": "Branding & Identity",
+            "desc": "Logo and complete brand identity for Facebook and Instagram.",
+            "price": "5,000",
+            "unit": ""
+        },
+        {
+            "icon": "design",
+            "title": "Graphic Design",
+            "desc": "Social posts, banners and marketing creatives.",
+            "price": "700",
+            "unit": "/ design"
+        },
+        {
+            "icon": "content",
+            "title": "Content Creation",
+            "desc": "AI generated reels, captions and creative concepts.",
+            "price": "1,500",
+            "unit": "/ design"
+        },
+        {
+            "icon": "social",
+            "title": "Social Media Management",
+            "desc": "Content, posting, engagement and page management.",
+            "price": "10,000",
+            "unit": "/ month"
+        },
+        {
+            "icon": "video",
+            "title": "Reels & Video Editing",
+            "desc": "Professional reels and video editing.",
+            "price": "1,500",
+            "unit": "/ reel"
+        },
+        {
+            "icon": "seo",
+            "title": "SEO",
+            "desc": "Keyword research, on-page and local SEO.",
+            "price": "15,000",
+            "unit": "/ month"
+        },
+        {
+            "icon": "web",
+            "title": "Website Design & Development",
+            "desc": "Professional responsive websites.",
+            "price": "40,000",
+            "unit": "/ website"
+        },
+        {
+            "icon": "ads",
+            "title": "Meta Ads",
+            "desc": "Facebook and Instagram advertising.",
+            "price": "8,000",
+            "unit": "/ month + ad spend"
+        },
+        {
+            "icon": "target",
+            "title": "Google Ads",
+            "desc": "Search, Display and YouTube advertising.",
+            "price": "8,000",
+            "unit": "/ month + ad spend"
+        },
+        {
+            "icon": "email",
+            "title": "Email Marketing",
+            "desc": "Campaigns, newsletters and automation.",
+            "price": "10,000",
+            "unit": "/ month"
+        },
+        {
+            "icon": "ai",
+            "title": "AI Automation",
+            "desc": "AI workflows, chatbots and business automation.",
+            "price": "20,000",
+            "unit": "/ project"
+        },
+        {
+            "icon": "funnel",
+            "title": "Lead Generation",
+            "desc": "Targeted campaigns and qualified leads.",
+            "price": "15,000",
+            "unit": "/ campaign + ad spend"
+        }
+    ],
+    "awards": [
+        {
+            "icon": "cert",
+            "title": "Meta Certificate of Achievement",
+            "issuer": "Meta",
+            "year": "",
+            "desc": "Awarded for successfully completing Meta’s digital marketing and advertising achievement requirements.",
+            "why": "Shows my Facebook and Instagram advertising skills are recognized by the platform itself."
+        },
+        {
+            "icon": "trophy",
+            "title": "Google Ads Certification",
+            "issuer": "Google",
+            "year": "",
+            "desc": "Earned through Google’s professional certification program, recognizing expertise in Google Ads and digital advertising.",
+            "why": "Proves I can plan and run Search, Display and YouTube campaigns the way Google recommends."
+        },
+        {
+            "icon": "trophy",
+            "title": "Digital Marketing Training Excellence",
+            "issuer": "",
+            "year": "",
+            "desc": "Recognized for providing practical, project-based digital marketing training focused on real-world skills and career development.",
+            "why": "Shows I can teach what I do, and help others build careers in digital marketing."
+        }
+    ],
+    "projects": [
+        {
+            "cat": "perf",
+            "title": "Lucky Dune Buggy Dubai",
+            "desc": "Managed Meta awareness and engagement campaigns for Lucky Dune Buggy Dubai to increase brand visibility, audience engagement, and generate more dune buggy bookings.",
+            "image": "uploads/img-b3a928ffd91d.png",
+            "featured": true
+        },
+        {
+            "cat": "web",
+            "title": "Lucky Dune Buggy Dubai",
+            "desc": "Designed and developed the Lucky Dune Buggy Dubai website, optimized its SEO and content to improve search visibility, increase website traffic, and drive more customer inquiries and bookings.",
+            "image": "uploads/img-ec5a27df59c4.png",
+            "featured": true
+        },
+        {
+            "cat": "social",
+            "title": "Lucky dune buggy Dubai",
+            "desc": "Set up and managed Facebook and Instagram accounts, created AI-powered content, edited promotional videos, and developed engaging social media content to strengthen brand presence and attract more customers.",
+            "image": "uploads/img-3b492c10096b.jpg",
+            "featured": true
+        }
+    ],
+    "testimonials": [
+        {
+            "quote": "Our leads doubled in three months. Trezio understood our brand and built campaigns that actually converted.",
+            "name": "Sample Client One",
+            "role": "Founder, Retail Brand"
+        },
+        {
+            "quote": "Creative, fast and reliable. The reels and social content completely changed how our audience sees us.",
+            "name": "Sample Client Two",
+            "role": "Marketing Lead, Fitness Studio"
+        },
+        {
+            "quote": "From the new website to email automation, everything arrived on time and exceeded expectations.",
+            "name": "Sample Client Three",
+            "role": "Owner, Local Services"
+        }
+    ],
+    "brands": [
+        {
+            "name": "Northwind"
+        },
+        {
+            "name": "Brightside"
+        },
+        {
+            "name": "Luma Co"
+        },
+        {
+            "name": "Peak Fitness"
+        },
+        {
+            "name": "Urban Roots"
+        },
+        {
+            "name": "Skyline Realty"
+        },
+        {
+            "name": "Nova Foods"
+        },
+        {
+            "name": "Bluepine"
+        }
+    ],
+    "stats": [
+        {
+            "value": "100",
+            "suffix": "+",
+            "label": "Social media management"
+        },
+        {
+            "value": "50",
+            "suffix": "+",
+            "label": "Happy clients"
+        },
+        {
+            "value": "3",
+            "suffix": "",
+            "label": "Years of experience"
+        },
+        {
+            "value": "4.9",
+            "suffix": "",
+            "label": "Average rating out of 5"
+        }
+    ],
+    "timeline": [
+        {
+            "title": "Started editing as a hobby",
+            "desc": "It began with curiosity: cutting videos and designing visuals for fun, and learning what makes people stop and watch."
+        },
+        {
+            "title": "First paid client",
+            "desc": "The hobby became a business the day a real brand trusted me with its content and paid for the result."
+        },
+        {
+            "title": "Crossed 100 clients",
+            "desc": "Word spread, projects grew, and the work reached more than 100 clients across many industries."
+        },
+        {
+            "title": "Started managing full social media management",
+            "desc": "From single posts to complete accounts: strategy, content, posting, ads and reporting, all handled in one place."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Social media management",
+            "value": 95
+        },
+        {
+            "name": "Meta ads",
+            "value": 92
+        },
+        {
+            "name": "Google ads",
+            "value": 90
+        },
+        {
+            "name": "Content creation",
+            "value": 94
+        },
+        {
+            "name": "Short form reels",
+            "value": 93
+        },
+        {
+            "name": "Website development",
+            "value": 88
+        },
+        {
+            "name": "SEO",
+            "value": 89
+        },
+        {
+            "name": "Lead generation",
+            "value": 91
+        }
+    ]
+}
